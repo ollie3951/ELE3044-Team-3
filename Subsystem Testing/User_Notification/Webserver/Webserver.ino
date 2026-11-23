@@ -21,7 +21,7 @@ const char index_html[] PROGMEM = R"rawliteral(
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-  <h2>ESP Image Web Server</h2>
+  <h2>*Prototype Web Server*</h2>
   <img src="logo" style="max-width: 500px; width: 100%; height: auto;">
 </body>  
 </html>
